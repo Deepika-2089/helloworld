@@ -4,4 +4,4 @@ summary of stuff here
 
 # this is how you set up yhe project
 
-do things correctly
+do things correctly and do more stuff
